@@ -1,4 +1,4 @@
-# This is the code base for research paper list here:
+# This is the code base for research paper listed here. The primary purpose is for self-record. 
 ```bib
 @inproceedings{pang2020probabilistic,
   title={Probabilistic aircraft trajectory prediction considering weather uncertainties using dropout as bayesian approximate variational inference},
